@@ -1,4 +1,8 @@
 /* CSS files add styling rules to your content */
+.navegador
+{
+  padding: auto;
+}
 
 body {
     font-family: "Noto Sans", sans-serif;
@@ -83,3 +87,26 @@ body {
     width: 100%;
     height: 100%;
   }
+
+  .boton-nav{
+    width: auto;
+    text-align: center;
+  }
+ .text-button-login:hover{
+   color: white;
+ }
+
+ .div-buttons .btn:hover
+ {
+    color: white !important;
+ }
+
+ .contenido{
+   padding-top: 20px;
+   text-align: center;
+   font-size: auto;
+ }
+
+ .navbar{
+  font-size: 120%;
+ }
